@@ -8,25 +8,25 @@ All credit goes to the University of Wisconsin for the format of this homework a
 This repo contains code for the password validator. The below questions should be answered regarding your submission!
 
 ## Did you find the JavaScript Learning Tutor useful? If so, what about the tool made it useful? If not, why not?
-> Answer goes here!
+> I did not see anything regarding that, so unable to comment about that.
 
 
 ## Do you have any suggestions on how the JavaScript Learning Tutor might be improved?
-> Answer goes here
+> Have not used it, so unable to comment about that.
 
 
 ## Did you receive help from any other sources (classmates, etc)? If so, please list who (be specific!).
-> Answer goes here!
+> No help from other classmates other than using online sources like node.js documentation about using readline.
 
 
 ## Approximately how many hours did it take you to complete this assignment?
-> Answer goes here!
+> About 1-2 hours.
 
 
 ## On a scale of 1 (too easy) to 10 (too challenging), how difficult was this assignment?
-> Answer goes here!
+> About a 3. The recursion was a bit tricky, but other than that, it was fairly straightforward.
 
 
 ## Did you encounter any problems in this assignment we should warn students about in the future? How can we make the assignment better?
-> Answer goes here!
+> Encountered no problems in this assignment.
 
